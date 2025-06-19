@@ -33,22 +33,22 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: 'info@edumaster.com',
+      details: 'mathu9147@gmail.com',
       description: 'Send us an email anytime',
       color: 'text-blue-600'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      details: '+1 (555) 123-4567',
+      details: '6369593242',
       description: 'Mon-Fri from 8am to 5pm',
       color: 'text-green-600'
     },
     {
       icon: MapPin,
       title: 'Visit Us',
-      details: '123 Education Street',
-      description: 'Learning City, LC 12345',
+      details: 'Kongu Engineering COllege',
+      description: 'Erode, Tamil Nadu',
       color: 'text-purple-600'
     },
     {
