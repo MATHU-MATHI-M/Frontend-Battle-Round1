@@ -31,15 +31,15 @@ const Footer: React.FC = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-300">info@edumaster.com</span>
+                <span className="text-gray-300">mathu9147@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">6369593242</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-300">123 Education St, Learning City</span>
+                <span className="text-gray-300">Kongu Engineering College, Erode, Tamil Nadu</span>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 EduMaster. All rights reserved. Designed for excellence in education.</p>
+          <p>&copy; 2025 EduMaster. All rights reserved. Designed for excellence in education.</p>
         </div>
       </div>
     </footer>
